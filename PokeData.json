@@ -3,7 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "Bulbasaur",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F001.png?alt=media&token=81e213fd-7bc4-4eff-8697-58e5a16278c6",
+    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "type": [
       "Grass",
       "Poison"
@@ -34,7 +34,7 @@
     "id": 2,
     "num": "002",
     "name": "Ivysaur",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F002.png?alt=media&token=d98ea8c3-9759-498a-9252-c2890417fad2",
+    "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
     "type": [
       "Grass",
       "Poison"
@@ -69,7 +69,7 @@
     "id": 3,
     "num": "003",
     "name": "Venusaur",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F003.png?alt=media&token=da6e2009-6ef1-4eb6-9d06-e1733e9810ef",
+    "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
     "type": [
       "Grass",
       "Poison"
@@ -99,7 +99,7 @@
     "id": 4,
     "num": "004",
     "name": "Charmander",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F004.png?alt=media&token=bb93620f-16c7-4ec1-9e0d-d18e7cd472d2",
+    "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
     "type": [
       "Fire"
     ],
@@ -128,7 +128,7 @@
     "id": 5,
     "num": "005",
     "name": "Charmeleon",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F005.png?alt=media&token=37fd268b-e4a6-4354-85e6-e84b1a2f3c1e",
+    "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
     "type": [
       "Fire"
     ],
@@ -158,7 +158,7 @@
     "id": 6,
     "num": "006",
     "name": "Charizard",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F006.png?alt=media&token=21814e2c-da7f-4e46-93b9-654eab6efd3e",
+    "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
     "type": [
       "Fire",
       "Flying"
@@ -187,7 +187,7 @@
     "id": 7,
     "num": "007",
     "name": "Squirtle",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F007.png?alt=media&token=28eac63c-704e-42c4-af20-bfe7d16b8f79",
+    "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
     "type": [
       "Water"
     ],
@@ -244,7 +244,7 @@
     "id": 9,
     "num": "009",
     "name": "Blastoise",
-    "img": "https://firebasestorage.googleapis.com/v0/b/guide-8b545.appspot.com/o/PokeImg%2F009.png?alt=media&token=5ec59c1c-4421-40c3-8b2b-3cb264e7655f",
+    "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
     "type": [
       "Water"
     ],
