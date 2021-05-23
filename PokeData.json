@@ -84,7 +84,7 @@
       "Grass",
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 80, "atk": 82, "def": 83, "spatk": 100, "spdef": 100, "spe": 80,
     "height": "2.01 m",
     "weight": "100.0 kg",
     "candy": "Bulbasaur Candy",
@@ -114,7 +114,7 @@
     "type": [
       "Fire"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Blaze", "ability2": "", "hiddenability": "Solar Power", "hp": 39, "atk": 52, "def": 43, "spatk": 60, "spdef": 50, "spe": 65,
     "height": "0.61 m",
     "weight": "8.5 kg",
     "candy": "Charmander Candy",
@@ -144,7 +144,7 @@
     "type": [
       "Fire"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Blaze", "ability2": "", "hiddenability": "Solar Power", "hp": 58, "atk": 64, "def": 58, "spatk": 80, "spdef": 65, "spe": 80,
     "height": "1.09 m",
     "weight": "19.0 kg",
     "candy": "Charmander Candy",
@@ -176,7 +176,7 @@
       "Fire",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Blaze", "ability2": "", "hiddenability": "Solar Power", "hp": 78, "atk": 84, "def": 78, "spatk": 109, "spdef": 85, "spe": 100,
     "height": "1.70 m",
     "weight": "90.5 kg",
     "candy": "Charmander Candy",
@@ -205,7 +205,7 @@
     "type": [
       "Water"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Torrent", "ability2": "", "hiddenability": "Rain Dish", "hp": 44, "atk": 48, "def": 65, "spatk": 50, "spdef": 64, "spe": 43,
     "height": "0.51 m",
     "weight": "9.0 kg",
     "candy": "Squirtle Candy",
@@ -234,7 +234,7 @@
     "type": [
       "Water"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Torrent", "ability2": "", "hiddenability": "Rain Dish", "hp": 59, "atk": 63, "def": 80, "spatk": 65, "spdef": 80, "spe": 58,
     "height": "0.99 m",
     "weight": "22.5 kg",
     "candy": "Squirtle Candy",
@@ -264,7 +264,7 @@
     "type": [
       "Water"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Torrent", "ability2": "", "hiddenability": "Rain Dish", "hp": 79, "atk": 83, "def": 100, "spatk": 85, "spdef": 105, "spe": 78,
     "height": "1.60 m",
     "weight": "85.5 kg",
     "candy": "Squirtle Candy",
@@ -292,7 +292,7 @@
     "type": [
       "Bug"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Shield Dust", "ability2": "", "hiddenability": "Run Away", "hp": 45, "atk": 30, "def": 35, "spatk": 20, "spdef": 20, "spe": 45,
     "height": "0.30 m",
     "weight": "2.9 kg",
     "candy": "Caterpie Candy",
@@ -322,7 +322,7 @@
     "type": [
       "Bug"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Shed Skin", "ability2": "", "hiddenability": "", "hp": 50, "atk": 20, "def": 55, "spatk": 25, "spdef": 25, "spe": 30,
     "height": "0.71 m",
     "weight": "9.9 kg",
     "candy": "Caterpie Candy",
@@ -357,7 +357,7 @@
       "Bug",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Compound Eyes", "ability2": "", "hiddenability": "Tinted Lens", "hp": 60, "atk": 45, "def": 50, "spatk": 90, "spdef": 80, "spe": 70,
     "height": "1.09 m",
     "weight": "32.0 kg",
     "candy": "Caterpie Candy",
@@ -389,7 +389,7 @@
       "Bug",
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Shield Dust", "ability2": "", "hiddenability": "Run Away", "hp": 40, "atk": 35, "def": 30, "spatk": 20, "spdef": 20, "spe": 50,
     "height": "0.30 m",
     "weight": "3.2 kg",
     "candy": "Weedle Candy",
@@ -424,7 +424,7 @@
       "Bug",
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Shed Skin", "ability2": "", "hiddenability": "", "hp": 45, "atk": 25, "def": 50, "spatk": 25, "spdef": 25, "spe": 35,
     "height": "0.61 m",
     "weight": "10.0 kg",
     "candy": "Weedle Candy",
@@ -460,7 +460,7 @@
       "Bug",
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Swarm", "ability2": "", "hiddenability": "Sniper", "hp": 65, "atk": 90, "def": 40, "spatk": 45, "spdef": 80, "spe": 75,
     "height": "0.99 m",
     "weight": "29.5 kg",
     "candy": "Weedle Candy",
@@ -491,7 +491,7 @@
       "Normal",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Keen Eye", "ability2": "Tangled Feet", "hiddenability": "Big Pecks", "hp": 40, "atk": 45, "def": 40, "spatk": 35, "spdef": 35, "spe": 56,
     "height": "0.30 m",
     "weight": "1.8 kg",
     "candy": "Pidgey Candy",
@@ -555,7 +555,7 @@
       "Normal",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Keen Eye", "ability2": "Tangled Feet", "hiddenability": "Big Pecks", "hp": 63, "atk": 60, "def": 55, "spatk": 50, "spdef": 50, "spe": 71,
     "height": "1.50 m",
     "weight": "39.5 kg",
     "candy": "Pidgey Candy",
