@@ -8,6 +8,15 @@
       "Grass",
       "Poison"
     ],
+    "ability1": "Overgrow",
+      "ability2": "",
+      "hiddenability": "Chlorophyll",
+      "hp": 45,
+      "atk": 49,
+      "def": 49,
+      "spatk": 65,
+      "spdef": 65,
+      "spe": 45,
     "height": "0.71 m",
     "weight": "6.9 kg",
     "candy": "Bulbasaur Candy",
@@ -39,6 +48,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "13.0 kg",
     "candy": "Bulbasaur Candy",
@@ -74,6 +84,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.01 m",
     "weight": "100.0 kg",
     "candy": "Bulbasaur Candy",
@@ -103,6 +114,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "8.5 kg",
     "candy": "Charmander Candy",
@@ -132,6 +144,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "19.0 kg",
     "candy": "Charmander Candy",
@@ -163,6 +176,7 @@
       "Fire",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.70 m",
     "weight": "90.5 kg",
     "candy": "Charmander Candy",
@@ -191,6 +205,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.51 m",
     "weight": "9.0 kg",
     "candy": "Squirtle Candy",
@@ -219,6 +234,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "22.5 kg",
     "candy": "Squirtle Candy",
@@ -248,6 +264,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "85.5 kg",
     "candy": "Squirtle Candy",
@@ -275,6 +292,7 @@
     "type": [
       "Bug"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "2.9 kg",
     "candy": "Caterpie Candy",
@@ -304,6 +322,7 @@
     "type": [
       "Bug"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.71 m",
     "weight": "9.9 kg",
     "candy": "Caterpie Candy",
@@ -338,6 +357,7 @@
       "Bug",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "32.0 kg",
     "candy": "Caterpie Candy",
@@ -369,6 +389,7 @@
       "Bug",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "3.2 kg",
     "candy": "Weedle Candy",
@@ -403,6 +424,7 @@
       "Bug",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "10.0 kg",
     "candy": "Weedle Candy",
@@ -438,6 +460,7 @@
       "Bug",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "29.5 kg",
     "candy": "Weedle Candy",
@@ -468,6 +491,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "1.8 kg",
     "candy": "Pidgey Candy",
@@ -500,6 +524,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "30.0 kg",
     "candy": "Pidgey Candy",
@@ -530,6 +555,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "39.5 kg",
     "candy": "Pidgey Candy",
@@ -557,6 +583,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "3.5 kg",
     "candy": "Rattata Candy",
@@ -584,6 +611,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.71 m",
     "weight": "18.5 kg",
     "candy": "Rattata Candy",
@@ -608,6 +636,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "2.0 kg",
     "candy": "Spearow Candy",
@@ -637,6 +666,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "38.0 kg",
     "candy": "Spearow Candy",
@@ -661,6 +691,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.01 m",
     "weight": "6.9 kg",
     "candy": "Ekans Candy",
@@ -689,6 +720,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "3.51 m",
     "weight": "65.0 kg",
     "candy": "Ekans Candy",
@@ -713,6 +745,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "6.0 kg",
     "candy": "Pikachu Candy",
@@ -737,6 +770,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "30.0 kg",
     "candy": "Pikachu Candy",
@@ -760,6 +794,7 @@
     "type": [
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "12.0 kg",
     "candy": "Sandshrew Candy",
@@ -786,6 +821,7 @@
     "type": [
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "29.5 kg",
     "candy": "Sandshrew Candy",
@@ -811,6 +847,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "7.0 kg",
     "candy": "Nidoran ♀ (Female) Candy",
@@ -842,6 +879,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "20.0 kg",
     "candy": "Nidoran ♀ (Female) Candy",
@@ -875,6 +913,7 @@
       "Poison",
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "60.0 kg",
     "candy": "Nidoran ♀ (Female) Candy",
@@ -904,6 +943,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.51 m",
     "weight": "9.0 kg",
     "candy": "Nidoran ♂ (Male) Candy",
@@ -935,6 +975,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.89 m",
     "weight": "19.5 kg",
     "candy": "Nidoran ♂ (Male) Candy",
@@ -965,6 +1006,7 @@
       "Poison",
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.40 m",
     "weight": "62.0 kg",
     "candy": "Nidoran ♂ (Male) Candy",
@@ -994,6 +1036,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "7.5 kg",
     "candy": "Clefairy Candy",
@@ -1021,6 +1064,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "40.0 kg",
     "candy": "Clefairy Candy",
@@ -1044,6 +1088,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "9.9 kg",
     "candy": "Vulpix Candy",
@@ -1073,6 +1118,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "19.9 kg",
     "candy": "Vulpix Candy",
@@ -1098,6 +1144,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.51 m",
     "weight": "5.5 kg",
     "candy": "Jigglypuff Candy",
@@ -1122,6 +1169,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "12.0 kg",
     "candy": "Jigglypuff Candy",
@@ -1146,6 +1194,7 @@
       "Poison",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "7.5 kg",
     "candy": "Zubat Candy",
@@ -1177,6 +1226,7 @@
       "Poison",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "55.0 kg",
     "candy": "Zubat Candy",
@@ -1204,6 +1254,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.51 m",
     "weight": "5.4 kg",
     "candy": "Oddish Candy",
@@ -1235,6 +1286,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "8.6 kg",
     "candy": "Oddish Candy",
@@ -1267,6 +1319,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "18.6 kg",
     "candy": "Oddish Candy",
@@ -1297,6 +1350,7 @@
       "Bug",
       "Grass"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "5.4 kg",
     "candy": "Paras Candy",
@@ -1327,6 +1381,7 @@
       "Bug",
       "Grass"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "29.5 kg",
     "candy": "Paras Candy",
@@ -1356,6 +1411,7 @@
       "Bug",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "30.0 kg",
     "candy": "Venonat Candy",
@@ -1387,6 +1443,7 @@
       "Bug",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "12.5 kg",
     "candy": "Venonat Candy",
@@ -1413,6 +1470,7 @@
     "type": [
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.20 m",
     "weight": "0.8 kg",
     "candy": "Diglett Candy",
@@ -1439,6 +1497,7 @@
     "type": [
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.71 m",
     "weight": "33.3 kg",
     "candy": "Dugtrio",
@@ -1464,6 +1523,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "4.2 kg",
     "candy": "Meowth Candy",
@@ -1488,6 +1548,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "32.0 kg",
     "candy": "Meowth Candy",
@@ -1511,6 +1572,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "19.6 kg",
     "candy": "Psyduck Candy",
@@ -1536,6 +1598,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.70 m",
     "weight": "76.6 kg",
     "candy": "Psyduck Candy",
@@ -1560,6 +1623,7 @@
     "type": [
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.51 m",
     "weight": "28.0 kg",
     "candy": "Mankey Candy",
@@ -1589,6 +1653,7 @@
     "type": [
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "32.0 kg",
     "candy": "Mankey Candy",
@@ -1614,6 +1679,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.71 m",
     "weight": "19.0 kg",
     "candy": "Growlithe Candy",
@@ -1643,6 +1709,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.91 m",
     "weight": "155.0 kg",
     "candy": "Growlithe Candy",
@@ -1668,6 +1735,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "12.4 kg",
     "candy": "Poliwag Candy",
@@ -1699,6 +1767,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "20.0 kg",
     "candy": "Poliwag Candy",
@@ -1729,6 +1798,7 @@
       "Water",
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "54.0 kg",
     "candy": "Poliwag Candy",
@@ -1759,6 +1829,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.89 m",
     "weight": "19.5 kg",
     "candy": "Abra Candy",
@@ -1791,6 +1862,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "56.5 kg",
     "candy": "Abra Candy",
@@ -1821,6 +1893,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "48.0 kg",
     "candy": "Abra Candy",
@@ -1849,6 +1922,7 @@
     "type": [
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "19.5 kg",
     "candy": "Machop Candy",
@@ -1881,6 +1955,7 @@
     "type": [
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "70.5 kg",
     "candy": "Machop Candy",
@@ -1911,6 +1986,7 @@
     "type": [
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "130.0 kg",
     "candy": "Machop Candy",
@@ -1940,6 +2016,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.71 m",
     "weight": "4.0 kg",
     "candy": "Bellsprout Candy",
@@ -1971,6 +2048,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "6.4 kg",
     "candy": "Bellsprout Candy",
@@ -2003,6 +2081,7 @@
       "Grass",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.70 m",
     "weight": "15.5 kg",
     "candy": "Bellsprout Candy",
@@ -2033,6 +2112,7 @@
       "Water",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.89 m",
     "weight": "45.5 kg",
     "candy": "Tentacool Candy",
@@ -2060,6 +2140,7 @@
       "Water",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "55.0 kg",
     "candy": "Tentacool Candy",
@@ -2086,6 +2167,7 @@
       "Rock",
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "20.0 kg",
     "candy": "Geodude Candy",
@@ -2122,6 +2204,7 @@
       "Rock",
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "105.0 kg",
     "candy": "Geodude Candy",
@@ -2159,6 +2242,7 @@
       "Rock",
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.40 m",
     "weight": "300.0 kg",
     "candy": "Geodude Candy",
@@ -2190,6 +2274,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "30.0 kg",
     "candy": "Ponyta Candy",
@@ -2219,6 +2304,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.70 m",
     "weight": "95.0 kg",
     "candy": "Ponyta Candy",
@@ -2245,6 +2331,7 @@
       "Water",
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "36.0 kg",
     "candy": "Slowpoke Candy",
@@ -2274,6 +2361,7 @@
       "Water",
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "78.5 kg",
     "candy": "Slowpoke Candy",
@@ -2301,6 +2389,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "6.0 kg",
     "candy": "Magnemite Candy",
@@ -2330,6 +2419,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "60.0 kg",
     "candy": "Magnemite Candy",
@@ -2356,6 +2446,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "15.0 kg",
     "candy": "None",
@@ -2377,6 +2468,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.40 m",
     "weight": "39.2 kg",
     "candy": "Doduo Candy",
@@ -2406,6 +2498,7 @@
       "Normal",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.80 m",
     "weight": "85.2 kg",
     "candy": "Doduo Candy",
@@ -2430,6 +2523,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "90.0 kg",
     "candy": "Seel Candy",
@@ -2459,6 +2553,7 @@
       "Water",
       "Ice"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.70 m",
     "weight": "120.0 kg",
     "candy": "Seel Candy",
@@ -2485,6 +2580,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.89 m",
     "weight": "30.0 kg",
     "candy": "Grimer Candy",
@@ -2510,6 +2606,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "30.0 kg",
     "candy": "Grimer Candy",
@@ -2534,6 +2631,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "4.0 kg",
     "candy": "Shellder Candy",
@@ -2560,6 +2658,7 @@
       "Water",
       "Ice"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "132.5 kg",
     "candy": "Shellder Candy",
@@ -2587,6 +2686,7 @@
       "Ghost",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "0.1 kg",
     "candy": "Gastly Candy",
@@ -2618,6 +2718,7 @@
       "Ghost",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "0.1 kg",
     "candy": "Gastly Candy",
@@ -2653,6 +2754,7 @@
       "Ghost",
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "40.5 kg",
     "candy": "Gastly Candy",
@@ -2683,6 +2785,7 @@
       "Rock",
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "8.79 m",
     "weight": "210.0 kg",
     "candy": "None",
@@ -2707,6 +2810,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "32.4 kg",
     "candy": "Drowzee Candy",
@@ -2736,6 +2840,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "75.6 kg",
     "candy": "Drowzee Candy",
@@ -2761,6 +2866,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "6.5 kg",
     "candy": "Krabby Candy",
@@ -2789,6 +2895,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "60.0 kg",
     "candy": "Krabby Candy",
@@ -2813,6 +2920,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.51 m",
     "weight": "10.4 kg",
     "candy": "Voltorb Candy",
@@ -2840,6 +2948,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "66.6 kg",
     "candy": "Voltorb Candy",
@@ -2864,6 +2973,7 @@
       "Grass",
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "2.5 kg",
     "candy": "Exeggcute Candy",
@@ -2898,6 +3008,7 @@
       "Grass",
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.01 m",
     "weight": "120.0 kg",
     "candy": "Exeggcute Candy",
@@ -2927,6 +3038,7 @@
     "type": [
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "6.5 kg",
     "candy": "Cubone Candy",
@@ -2953,6 +3065,7 @@
     "type": [
       "Ground"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "45.0 kg",
     "candy": "Cubone Candy",
@@ -2978,6 +3091,7 @@
     "type": [
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "49.8 kg",
     "candy": "None",
@@ -2999,6 +3113,7 @@
     "type": [
       "Fighting"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.40 m",
     "weight": "50.2 kg",
     "candy": "None",
@@ -3020,6 +3135,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "65.5 kg",
     "candy": "None",
@@ -3039,6 +3155,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "1.0 kg",
     "candy": "Koffing Candy",
@@ -3064,6 +3181,7 @@
     "type": [
       "Poison"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "9.5 kg",
     "candy": "Koffing Candy",
@@ -3089,6 +3207,7 @@
       "Ground",
       "Rock"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "115.0 kg",
     "candy": "Rhyhorn Candy",
@@ -3119,6 +3238,7 @@
       "Ground",
       "Rock"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.91 m",
     "weight": "120.0 kg",
     "candy": "Rhyhorn Candy",
@@ -3147,6 +3267,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "34.6 kg",
     "candy": "None",
@@ -3166,6 +3287,7 @@
     "type": [
       "Grass"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "35.0 kg",
     "candy": "None",
@@ -3189,6 +3311,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.21 m",
     "weight": "80.0 kg",
     "candy": "None",
@@ -3208,6 +3331,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "8.0 kg",
     "candy": "Horsea Candy",
@@ -3233,6 +3357,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.19 m",
     "weight": "25.0 kg",
     "candy": "Horsea Candy",
@@ -3257,6 +3382,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.61 m",
     "weight": "15.0 kg",
     "candy": "Goldeen Candy",
@@ -3285,6 +3411,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "39.0 kg",
     "candy": "Goldeen Candy",
@@ -3309,6 +3436,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "34.5 kg",
     "candy": "Staryu Candy",
@@ -3338,6 +3466,7 @@
       "Water",
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "80.0 kg",
     "candy": "Staryu Candy",
@@ -3365,6 +3494,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "54.5 kg",
     "candy": "None",
@@ -3387,6 +3517,7 @@
       "Bug",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "56.0 kg",
     "candy": "None",
@@ -3411,6 +3542,7 @@
       "Ice",
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.40 m",
     "weight": "40.6 kg",
     "candy": "None",
@@ -3435,6 +3567,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.09 m",
     "weight": "30.0 kg",
     "candy": "None",
@@ -3454,6 +3587,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "44.5 kg",
     "candy": "None",
@@ -3475,6 +3609,7 @@
     "type": [
       "Bug"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.50 m",
     "weight": "55.0 kg",
     "candy": "None",
@@ -3496,6 +3631,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.40 m",
     "weight": "88.4 kg",
     "candy": "None",
@@ -3515,6 +3651,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.89 m",
     "weight": "10.0 kg",
     "candy": "Magikarp Candy",
@@ -3544,6 +3681,7 @@
       "Water",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "6.50 m",
     "weight": "235.0 kg",
     "candy": "Magikarp Candy",
@@ -3569,6 +3707,7 @@
       "Water",
       "Ice"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.49 m",
     "weight": "220.0 kg",
     "candy": "None",
@@ -3591,6 +3730,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "4.0 kg",
     "candy": "None",
@@ -3610,6 +3750,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.30 m",
     "weight": "6.5 kg",
     "candy": "Eevee Candy",
@@ -3643,6 +3784,7 @@
     "type": [
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "29.0 kg",
     "candy": "Eevee Candy",
@@ -3667,6 +3809,7 @@
     "type": [
       "Electric"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "24.5 kg",
     "candy": "None",
@@ -3690,6 +3833,7 @@
     "type": [
       "Fire"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.89 m",
     "weight": "25.0 kg",
     "candy": "Eevee Candy",
@@ -3715,6 +3859,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.79 m",
     "weight": "36.5 kg",
     "candy": "None",
@@ -3735,6 +3880,7 @@
       "Rock",
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "7.5 kg",
     "candy": "Omanyte Candy",
@@ -3763,6 +3909,7 @@
       "Rock",
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.99 m",
     "weight": "35.0 kg",
     "candy": "None",
@@ -3790,6 +3937,7 @@
       "Rock",
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.51 m",
     "weight": "11.5 kg",
     "candy": "Kabuto Candy",
@@ -3821,6 +3969,7 @@
       "Rock",
       "Water"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.30 m",
     "weight": "40.5 kg",
     "candy": "Kabuto Candy",
@@ -3848,6 +3997,7 @@
       "Rock",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.80 m",
     "weight": "59.0 kg",
     "candy": "None",
@@ -3871,6 +4021,7 @@
     "type": [
       "Normal"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.11 m",
     "weight": "460.0 kg",
     "candy": "None",
@@ -3891,6 +4042,7 @@
       "Ice",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.70 m",
     "weight": "55.4 kg",
     "candy": "None",
@@ -3914,6 +4066,7 @@
       "Electric",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.60 m",
     "weight": "52.6 kg",
     "candy": "None",
@@ -3935,6 +4088,7 @@
       "Fire",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.01 m",
     "weight": "60.0 kg",
     "candy": "None",
@@ -3956,6 +4110,7 @@
     "type": [
       "Dragon"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "1.80 m",
     "weight": "3.3 kg",
     "candy": "Dratini Candy",
@@ -3988,6 +4143,7 @@
     "type": [
       "Dragon"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "3.99 m",
     "weight": "16.5 kg",
     "candy": "Dratini Candy",
@@ -4019,6 +4175,7 @@
       "Dragon",
       "Flying"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.21 m",
     "weight": "210.0 kg",
     "candy": "Dratini Candy",
@@ -4048,6 +4205,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "2.01 m",
     "weight": "122.0 kg",
     "candy": "None",
@@ -4069,6 +4227,7 @@
     "type": [
       "Psychic"
     ],
+     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
     "height": "0.41 m",
     "weight": "4.0 kg",
     "candy": "None",
