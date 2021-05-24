@@ -1006,7 +1006,7 @@
       "Poison",
       "Ground"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Poison Point", "ability2": "Rivalry", "hiddenability": "Sheer Force", "hp": 81, "atk": 102, "def": 77, "spatk": 85, "spdef": 75, "spe": 85,
     "height": "1.40 m",
     "weight": "62.0 kg",
     "candy": "Nidoran ♂ (Male) Candy",
@@ -1036,7 +1036,7 @@
     "type": [
       "Normal"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Cute Charm", "ability2": "Magic Guard", "hiddenability": "Friend Guard", "hp": 70, "atk": 45, "def": 48, "spatk": 60, "spdef": 65, "spe": 35,
     "height": "0.61 m",
     "weight": "7.5 kg",
     "candy": "Clefairy Candy",
@@ -1064,7 +1064,7 @@
     "type": [
       "Normal"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Cute Charm", "ability2": "Magic Guard", "hiddenability": "Unaware", "hp": 95, "atk": 70, "def": 73, "spatk": 95, "spdef": 90, "spe": 60,
     "height": "1.30 m",
     "weight": "40.0 kg",
     "candy": "Clefairy Candy",
@@ -1088,7 +1088,7 @@
     "type": [
       "Fire"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Flash Fire", "ability2": "", "hiddenability": "Drought", "hp": 38, "atk": 41, "def": 40, "spatk": 50, "spdef": 65, "spe": 65,
     "height": "0.61 m",
     "weight": "9.9 kg",
     "candy": "Vulpix Candy",
@@ -1118,7 +1118,7 @@
     "type": [
       "Fire"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Flash Fire", "ability2": "", "hiddenability": "Drought", "hp": 73, "atk": 76, "def": 75, "spatk": 81, "spdef": 100, "spe": 100,
     "height": "1.09 m",
     "weight": "19.9 kg",
     "candy": "Vulpix Candy",
@@ -1144,7 +1144,7 @@
     "type": [
       "Normal"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Cute Charm", "ability2": "Competitive", "hiddenability": "Friend Guard", "hp": 115, "atk": 45, "def": 20, "spatk": 45, "spdef": 25, "spe": 20,
     "height": "0.51 m",
     "weight": "5.5 kg",
     "candy": "Jigglypuff Candy",
@@ -1169,7 +1169,7 @@
     "type": [
       "Normal"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Cute Charm", "ability2": "Competitive", "hiddenability": "Frisk", "hp": 140, "atk": 70, "def": 45, "spatk": 85, "spdef": 50, "spe": 45,
     "height": "0.99 m",
     "weight": "12.0 kg",
     "candy": "Jigglypuff Candy",
@@ -1194,7 +1194,7 @@
       "Poison",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Inner Focus", "ability2": "", "hiddenability": "Infiltrator", "hp": 40, "atk": 45, "def": 35, "spatk": 30, "spdef": 40, "spe": 55,
     "height": "0.79 m",
     "weight": "7.5 kg",
     "candy": "Zubat Candy",
@@ -1226,7 +1226,7 @@
       "Poison",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Inner Focus", "ability2": "", "hiddenability": "Infiltrator", "hp": 75, "atk": 80, "def": 70, "spatk": 65, "spdef": 75, "spe": 90,
     "height": "1.60 m",
     "weight": "55.0 kg",
     "candy": "Zubat Candy",
@@ -1254,7 +1254,7 @@
       "Grass",
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Chlorophyll", "ability2": "", "hiddenability": "Run Away", "hp": 45, "atk": 50, "def": 55, "spatk": 75, "spdef": 65, "spe": 30,
     "height": "0.51 m",
     "weight": "5.4 kg",
     "candy": "Oddish Candy",
