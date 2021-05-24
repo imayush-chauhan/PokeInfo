@@ -524,7 +524,7 @@
       "Normal",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Keen Eye", "ability2": "Tangled Feet", "hiddenability": "Big Pecks", "hp": 63, "atk": 60, "def": 55, "spatk": 50, "spdef": 50, "spe": 71,
     "height": "1.09 m",
     "weight": "30.0 kg",
     "candy": "Pidgey Candy",
@@ -555,7 +555,7 @@
       "Normal",
       "Flying"
     ],
-     "ability1": "Keen Eye", "ability2": "Tangled Feet", "hiddenability": "Big Pecks", "hp": 63, "atk": 60, "def": 55, "spatk": 50, "spdef": 50, "spe": 71,
+     "ability1": "Keen Eye", "ability2": "Tangled Feet", "hiddenability": "Big Pecks", "hp": 83, "atk": 80, "def": 75, "spatk": 70, "spdef": 70, "spe": 101,
     "height": "1.50 m",
     "weight": "39.5 kg",
     "candy": "Pidgey Candy",
@@ -583,7 +583,7 @@
     "type": [
       "Normal"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Run Away", "ability2": "Guts", "hiddenability": "Hustle", "hp": 30, "atk": 56, "def": 35, "spatk": 25, "spdef": 35, "spe": 72,
     "height": "0.30 m",
     "weight": "3.5 kg",
     "candy": "Rattata Candy",
@@ -611,7 +611,7 @@
     "type": [
       "Normal"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Run Away", "ability2": "Guts", "hiddenability": "Hustle", "hp": 55, "atk": 81, "def": 60, "spatk": 50, "spdef": 70, "spe": 97,
     "height": "0.71 m",
     "weight": "18.5 kg",
     "candy": "Rattata Candy",
@@ -636,7 +636,7 @@
       "Normal",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Keen Eye", "ability2": "", "hiddenability": "Sniper", "hp": 40, "atk": 60, "def": 30, "spatk": 31, "spdef": 31, "spe": 70,
     "height": "0.30 m",
     "weight": "2.0 kg",
     "candy": "Spearow Candy",
@@ -666,7 +666,7 @@
       "Normal",
       "Flying"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Keen Eye", "ability2": "", "hiddenability": "Sniper", "hp": 65, "atk": 90, "def": 65, "spatk": 61, "spdef": 61, "spe": 100,
     "height": "1.19 m",
     "weight": "38.0 kg",
     "candy": "Spearow Candy",
@@ -691,7 +691,7 @@
     "type": [
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Intimidate", "ability2": "Shed Skin", "hiddenability": "Unnerve", "hp": 35, "atk": 60, "def": 44, "spatk": 40, "spdef": 54, "spe": 55,
     "height": "2.01 m",
     "weight": "6.9 kg",
     "candy": "Ekans Candy",
@@ -720,7 +720,7 @@
     "type": [
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Intimidate", "ability2": "Shed Skin", "hiddenability": "Unnerve", "hp": 60, "atk": 95, "def": 69, "spatk": 65, "spdef": 79, "spe": 80,
     "height": "3.51 m",
     "weight": "65.0 kg",
     "candy": "Ekans Candy",
@@ -745,7 +745,7 @@
     "type": [
       "Electric"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Static", "ability2": "Lightning Rod", "hiddenability": "Lightning Rod", "hp": 35, "atk": 55, "def": 40, "spatk": 50, "spdef": 50, "spe": 90,
     "height": "0.41 m",
     "weight": "6.0 kg",
     "candy": "Pikachu Candy",
@@ -770,7 +770,7 @@
     "type": [
       "Electric"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Static", "ability2": "Lightning Rod", "hiddenability": "", "hp": 60, "atk": 90, "def": 55, "spatk": 90, "spdef": 80, "spe": 110,
     "height": "0.79 m",
     "weight": "30.0 kg",
     "candy": "Pikachu Candy",
@@ -794,7 +794,7 @@
     "type": [
       "Ground"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Sand Veil", "ability2": "", "hiddenability": "Sand Rush", "hp": 50, "atk": 75, "def": 85, "spatk": 20, "spdef": 30, "spe": 40,
     "height": "0.61 m",
     "weight": "12.0 kg",
     "candy": "Sandshrew Candy",
@@ -821,7 +821,7 @@
     "type": [
       "Ground"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Sand Veil", "ability2": "", "hiddenability": "Sand Rush", "hp": 75, "atk": 100, "def": 110, "spatk": 45, "spdef": 55, "spe": 65,
     "height": "0.99 m",
     "weight": "29.5 kg",
     "candy": "Sandshrew Candy",
@@ -842,12 +842,12 @@
   }, {
     "id": 29,
     "num": "029",
-    "name": "Nidoran ♀ (Female)",
+    "name": "Nidoran ♀",
     "img": "https://pokeres.bastionbot.org/images/pokemon/29.png",
     "type": [
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+    "ability1": "Poison Point", "ability2": "Rivalry", "hiddenability": "Hustle", "hp": 55, "atk": 47, "def": 52, "spatk": 40, "spdef": 40, "spe": 41,
     "height": "0.41 m",
     "weight": "7.0 kg",
     "candy": "Nidoran ♀ (Female) Candy",
@@ -879,7 +879,7 @@
     "type": [
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Poison Point", "ability2": "Rivalry", "hiddenability": "Hustle", "hp": 70, "atk": 62, "def": 67, "spatk": 55, "spdef": 55, "spe": 56,
     "height": "0.79 m",
     "weight": "20.0 kg",
     "candy": "Nidoran ♀ (Female) Candy",
@@ -913,7 +913,7 @@
       "Poison",
       "Ground"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Poison Point", "ability2": "Rivalry", "hiddenability": "Sheer Force", "hp": 90, "atk": 92, "def": 87, "spatk": 75, "spdef": 85, "spe": 76,
     "height": "1.30 m",
     "weight": "60.0 kg",
     "candy": "Nidoran ♀ (Female) Candy",
@@ -943,7 +943,7 @@
     "type": [
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Poison Point", "ability2": "Rivalry", "hiddenability": "Hustle", "hp": 46, "atk": 57, "def": 40, "spatk": 40, "spdef": 40, "spe": 50,
     "height": "0.51 m",
     "weight": "9.0 kg",
     "candy": "Nidoran ♂ (Male) Candy",
@@ -975,7 +975,7 @@
     "type": [
       "Poison"
     ],
-     "ability1": "Overgrow", "ability2": "", "hiddenability": "Chlorophyll", "hp": 60, "atk": 62, "def": 63, "spatk": 80, "spdef": 80, "spe": 60,
+     "ability1": "Poison Point", "ability2": "Rivalry", "hiddenability": "Hustle", "hp": 61, "atk": 72, "def": 57, "spatk": 55, "spdef": 55, "spe": 65,
     "height": "0.89 m",
     "weight": "19.5 kg",
     "candy": "Nidoran ♂ (Male) Candy",
